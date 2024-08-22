@@ -2,7 +2,8 @@
 <h4 align="justify">Desenvolvedor frontend, atualmente trabalhando em projetos pessoais e auto-desenvolvimento criando e mantendo aplicações web. Uso meu tempo livre para aplicar meu conhecimento e resolver problemas reais para desenvolver minhas habilidades práticas de forma sólida.</h4>
 
 
-- 🌱 Atualmente aprendendo **ReactJS/TypeScript**
+- 🌲 Fortalecendo o conhecimento nas minhas principais tecnologias **ReactJS/JavaScript**
+- 🌱 Aprendendo **TypeScript**
 - 🎮 Jogando games do gênero **Soulslike**
 - 🏋 Eu amo musculação e treinamento de força
 - 🧠 Gosto de conciliar conhecimentos de neurociência junto com programação _(be RD)_
