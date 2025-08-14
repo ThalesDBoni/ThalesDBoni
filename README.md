@@ -5,15 +5,14 @@
 - 🌲 Fortalecendo o conhecimento nas minhas principais tecnologias **ReactJS/JavaScript**
 - 🌱 Aprendendo **TypeScript**
 - 🎮 Jogando games do gênero **Soulslike**
-- 🏋 Eu amo musculação e treinamento de força
-- 🧠 Gosto de conciliar conhecimentos de neurociência junto com programação _(be RD)_
+- 📕 Lendo **Duna** e outros romances 
 
 ## 🖥️ Tecnologias que estou usando e aprendendo
 ### Linguagens e tecnologias
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,nextjs&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,nextjs&perline=6)](https://skillicons.dev)
 ### Ferramentas e softwares
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,npm,notion,obsidian&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,pnpm,notion,obsidian&perline=6)](https://skillicons.dev)
 
 ## ⏳Próximos passos
 ### Ferramentas que pretendo aprender para continuar me desenvolvendo
-[![My Skills](https://skillicons.dev/icons?i=tailwind,sass,nodejs,mongodb,postgres,linux&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,sass,nodejs,mongodb,postgres,linux&perline=6)](https://skillicons.dev)
