@@ -3,7 +3,6 @@
 
 
 - 🌲 Fortalecendo o conhecimento nas minhas principais tecnologias **ReactJS/JavaScript**
-- 🌱 Aprendendo **TypeScript**
 - 🎮 Jogando games do gênero **Soulslike**
 - 📕 Lendo **Duna** e outros romances 
 
