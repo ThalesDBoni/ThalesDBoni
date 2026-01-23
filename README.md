@@ -2,16 +2,16 @@
 <h4 align="justify">Desenvolvedor frontend, atualmente trabalhando em projetos pessoais e auto-desenvolvimento criando e mantendo aplicações web. Uso meu tempo livre para aplicar meu conhecimento e resolver problemas reais para desenvolver minhas habilidades práticas de forma sólida.</h4>
 
 
-- 🌲 Fortalecendo o conhecimento nas minhas principais tecnologias **ReactJS/JavaScript**
+- 🌲 Fortalecendo o conhecimento nas minhas principais tecnologias **React/TypeScript**
 - 🎮 Jogando games do gênero **Soulslike**
 - 📕 Lendo **O Caminho dos Reis** e outros romances 
 
 ## 🖥️ Tecnologias que estou usando e aprendendo
 ### Linguagens e tecnologias
-[![My Skills](https://skillicons.dev/icons?i=js,ts,css,react,tailwind,nextjs&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,tailwind,nextjs&perline=5)](https://skillicons.dev)
 ### Ferramentas e softwares
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,pnpm,notion,obsidian&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,pnpm,linux,obsidian&perline=6)](https://skillicons.dev)
 
 ## ⏳Próximos passos
 ### Ferramentas que pretendo aprender para continuar me desenvolvendo
-[![My Skills](https://skillicons.dev/icons?i=ts,sass,nodejs,mongodb,postgres,linux&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=supabase,nodejs,mongodb,postgres&perline=4)](https://skillicons.dev)
