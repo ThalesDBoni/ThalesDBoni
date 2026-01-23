@@ -8,7 +8,7 @@
 
 ## 🖥️ Tecnologias que estou usando e aprendendo
 ### Linguagens e tecnologias
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,nextjs&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,css,react,tailwind,nextjs&perline=6)](https://skillicons.dev)
 ### Ferramentas e softwares
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,pnpm,notion,obsidian&perline=6)](https://skillicons.dev)
 
