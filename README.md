@@ -4,7 +4,7 @@
 
 - 🌲 Fortalecendo o conhecimento nas minhas principais tecnologias **ReactJS/JavaScript**
 - 🎮 Jogando games do gênero **Soulslike**
-- 📕 Lendo **Duna** e outros romances 
+- 📕 Lendo **O Caminho dos Reis** e outros romances 
 
 ## 🖥️ Tecnologias que estou usando e aprendendo
 ### Linguagens e tecnologias
